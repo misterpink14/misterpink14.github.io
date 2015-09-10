@@ -1,0 +1,80 @@
+body {
+	background-color: #D0D0D0;
+}
+
+#header small {
+	color: #D0D0D0;
+}
+
+a:hover, a:visited, a:link {
+	color:#4690CD;
+	font-weight: bold;
+}
+
+#header {
+	color:white;
+	background-color: #4690CD;
+	float:top;
+	padding: 0px 10px;
+}
+
+#header a{
+	color:white;
+	font-weight: normal;
+}
+
+small{
+	color:white;
+}
+
+
+#email {
+	text-align: left;
+	vertical-align: top;
+}
+
+.nav {
+	color:#D0D0D0;
+	text-align: center;
+}
+
+.content {
+	text-align: left;
+}
+
+
+
+a:hover {
+	color: #8AC007;
+}
+
+.nav a:hover {
+	font-weight: bold;
+
+	/*border: 2px solid #8AC007;*/
+}
+
+#selected {
+	color: gray;
+	font-weight: bold;
+}
+
+.row li{
+	list-style-type: none;
+}
+
+.row-header {
+	font-weight: bolder;
+}
+
+.images {
+	padding: 10px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.images img {
+	width:40%;
+	padding: 10px;
+}
